@@ -1,3 +1,5 @@
+
+// INCOMPLETE WORK......
 window.onload = function() {
     let btn = document.getElementById("jump");
     let count = 0;

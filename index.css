@@ -1,0 +1,22 @@
+#canvas {
+    width: 100%;
+    border: 1px solid black;
+}
+
+body {
+    background-color: #c3c3c3;
+}
+
+h1 {
+    color: #4c6ebb;
+}
+button {
+    width: 50px;
+    height: 30px;
+    margin-bottom: 5px;
+}
+
+*{
+    user-select: none;
+    -webkit-user-select: none;
+}
